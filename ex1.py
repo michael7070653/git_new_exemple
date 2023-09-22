@@ -7,3 +7,4 @@ print(fib(7))
 
 def xz(t):
     return t
+print(xz(9))
