@@ -8,3 +8,12 @@ print(fib(7))
 def xz(t):
     return t
 print(xz(9))
+
+def cre(y):
+    if y < 0 :
+        return y
+    else:
+        return 7
+    
+print(cre(7))
+    
