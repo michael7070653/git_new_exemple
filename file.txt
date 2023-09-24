@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 fvfvfsvsvfsvfsfvsvdffdfvsdvsevd
 dvcdvdddcdcdcvd
+=======
+def x(y):
+  print(y)
+  return(5-y)
+>>>>>>> main

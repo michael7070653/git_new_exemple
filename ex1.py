@@ -4,6 +4,7 @@ def fib(n):
     return fib(n - 1) + fib(n - 2)
 print(fib(6))
 print(fib(7))
+<<<<<<< HEAD
 
 def xz(t):
     return t
@@ -17,3 +18,6 @@ def cre(y):
     
 print(cre(7))
     
+=======
+print(5+7)
+>>>>>>> main
